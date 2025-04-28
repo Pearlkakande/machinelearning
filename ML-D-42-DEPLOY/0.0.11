@@ -1,0 +1,12 @@
+Collecting pickle5
+  Downloading pickle5-0.0.11.tar.gz (132 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: pickle5
+  Building wheel for pickle5 (pyproject.toml): started
+  Building wheel for pickle5 (pyproject.toml): finished with status 'error'
+Failed to build pickle5
